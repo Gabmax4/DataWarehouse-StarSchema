@@ -21,7 +21,7 @@ This project demonstrates the implementation of a Data Warehousing solution usin
 
 ## Star Schema Design
 
-![Star Schema](Image/Star_Model.png)
+![Star Schema](image/Star_Model.png)
 
 The star schema is designed to efficiently answer the above business questions by organizing data into fact and dimension tables.
 
